@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4B25D61A200E146600970A01 /* secondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B25D619200E146600970A01 /* secondViewController.swift */; };
+		4B25D61C200E1A5A00970A01 /* Raleway-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4B25D61B200E1A5A00970A01 /* Raleway-Light.ttf */; };
 		4BCAB00A20078C7800425099 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BCAB00920078C7800425099 /* AppDelegate.swift */; };
 		4BCAB00C20078C7800425099 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BCAB00B20078C7800425099 /* ViewController.swift */; };
 		4BCAB00F20078C7800425099 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4BCAB00D20078C7800425099 /* Main.storyboard */; };
@@ -15,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4B25D619200E146600970A01 /* secondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondViewController.swift; sourceTree = "<group>"; };
+		4B25D61B200E1A5A00970A01 /* Raleway-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-Light.ttf"; sourceTree = "<group>"; };
 		4BCAB00620078C7800425099 /* myFirstApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = myFirstApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4BCAB00920078C7800425099 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4BCAB00B20078C7800425099 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,7 +60,9 @@
 			children = (
 				4BCAB00920078C7800425099 /* AppDelegate.swift */,
 				4BCAB00B20078C7800425099 /* ViewController.swift */,
+				4B25D619200E146600970A01 /* secondViewController.swift */,
 				4BCAB00D20078C7800425099 /* Main.storyboard */,
+				4B25D61B200E1A5A00970A01 /* Raleway-Light.ttf */,
 				4BCAB01020078C7800425099 /* Assets.xcassets */,
 				4BCAB01220078C7800425099 /* LaunchScreen.storyboard */,
 				4BCAB01520078C7800425099 /* Info.plist */,
@@ -126,6 +132,7 @@
 				4BCAB01420078C7800425099 /* LaunchScreen.storyboard in Resources */,
 				4BCAB01120078C7800425099 /* Assets.xcassets in Resources */,
 				4BCAB00F20078C7800425099 /* Main.storyboard in Resources */,
+				4B25D61C200E1A5A00970A01 /* Raleway-Light.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -136,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4B25D61A200E146600970A01 /* secondViewController.swift in Sources */,
 				4BCAB00C20078C7800425099 /* ViewController.swift in Sources */,
 				4BCAB00A20078C7800425099 /* AppDelegate.swift in Sources */,
 			);
